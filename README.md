@@ -1,6 +1,6 @@
 ## Hello, nice to meet you!
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Believe%20you%20can%20and%20you’re%20halfway%20there!&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient)
 
 <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" />
@@ -34,7 +34,8 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
 
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" />
+  <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aarDPwb1Umz554KwjmcQSg.png" />
 
 <hr/>
 
