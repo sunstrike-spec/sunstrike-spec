@@ -10,8 +10,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />  
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
@@ -19,7 +18,9 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+  </div>
+  <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
@@ -32,8 +33,12 @@
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
 
+  </div>
+ <div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
+</div>
   <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aarDPwb1Umz554KwjmcQSg.png" />
 
@@ -50,11 +55,11 @@
 <p align="center">
   <h3>Main Skills</h3>
     <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=go,ruby,python,js,ts,java,cs" /><br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,go,cs,ruby,java" /><br/>
     <h4> ✅ Frameworks/Libraries: </h4>
-    <img src="https://skillicons.dev/icons?i=rails,django,nodejs,react,next,angular,vue,nuxt,spring,wordpress" /><br/>
+    <img src="https://skillicons.dev/icons?i=rails,django,nodejs,react,angular,vue,next,nuxt,spring,wordpress" /><br/>
     <h4> ✅ Databases: </h4>
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" /><br/>
     <h4> ✅ Others: </h4>
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,ansible" /><br/>
 </p>
