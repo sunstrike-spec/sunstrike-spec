@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Believe%20you%20can%20and%20you’re%20halfway%20there!&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient)
 
 <p align= "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&background=49F5FF00&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=600&height=100&lines=%22Great+men+are+not +born+great,+they+grow+great!%22+;+-Me" />
 </p>
 
 <div style="display: flex; align-items: flex-start;">
