@@ -12,6 +12,10 @@
 
 <hr/>
 
+## My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -45,8 +49,13 @@
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
 </div>
+
+##
+
   <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aarDPwb1Umz554KwjmcQSg.png" />
+
+## My position 📊
 
 > ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Senior Software Engineer
 >
