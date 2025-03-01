@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Believe%20you%20can%20and%20you’re%20halfway%20there!&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient)
 
 <p align= "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=600&height=100&lines=%22Great+men+are+not +born+great,+they+grow+great!%22+;+-Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=600&height=100&lines=%22Great+men+are+not +born+great,+they+grow+great!%22+;+-Believe" />
 </p>
 
 <div style="display: flex; align-items: flex-start;">
@@ -41,6 +41,12 @@
 </div>
   <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aarDPwb1Umz554KwjmcQSg.png" />
+
+<hr/>
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunstrike-spec&row=1&margin-w=40)](https://github.com/sunstrike-spec/github-profile-trophy)
 
 <hr/>
 
