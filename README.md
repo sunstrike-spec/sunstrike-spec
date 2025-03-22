@@ -65,6 +65,12 @@
 
 <div style="display:flex">
 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#) [![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#) [![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](#)
+
+</div>
+
+<div style="display:flex">
+
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 </div>
