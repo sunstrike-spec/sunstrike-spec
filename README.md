@@ -228,7 +228,7 @@
   <img src="https://komarev.com/ghpvc/?username=sunstrike-spec&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-## My Role 📊
+## My Role
 
 > ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Full Stack Developer
 >
