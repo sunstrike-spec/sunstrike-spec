@@ -173,7 +173,7 @@
 
 > ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Full Stack Developer
 >
-> ### <img src="https://cdn0.iconfinder.com/data/icons/artificial-intelligence-40/64/reading-artificial-intelligence-ai-robot-512.png" alt="Laptop" width="25" height="25" /> AI Expert
+> ### <img src="https://cdn-icons-png.flaticon.com/512/15260/15260257.png" alt="Laptop" width="25" height="25" /> AI Expert
 >
 > ### <img src="https://cdn2.iconfinder.com/data/icons/bitcoin-51/128/12-512.png" alt="Laptop" width="25" height="25" /> BlockChain
 >
