@@ -1,5 +1,7 @@
 ## Welcome to my github, nice to meet you!
 
+## Full Stack Developer & AI & BlockChain & UX/UI Designer
+
 <!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Believe%20you%20can%20and%20you’re%20halfway%20there!&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient) -->
 
 <!-- <p align= "center">
@@ -167,13 +169,17 @@
   <img src="https://komarev.com/ghpvc/?username=sunstrike-spec&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-## My position 📊
+## My Role 📊
 
 > ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Full Stack Developer
 >
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> SEO Specialist
+> ### <img src="https://cdn0.iconfinder.com/data/icons/artificial-intelligence-40/64/reading-artificial-intelligence-ai-robot-512.png" alt="Laptop" width="25" height="25" /> AI Expert
 >
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> E-commerce Expert
+> ### <img src="https://cdn2.iconfinder.com/data/icons/bitcoin-51/128/12-512.png" alt="Laptop" width="25" height="25" /> BlockChain
+>
+> ### <img src="https://cdn0.iconfinder.com/data/icons/IS_CMS/256/theme_editor.png" alt="Laptop" width="25" height="25" /> UX/UI Designer
+>
+> ### <img src="https://cdn1.iconfinder.com/data/icons/activities-11/66/68-512.png" alt="Coin" width="25" height="25" /> E-commerce Expert
 
 <hr />
 
