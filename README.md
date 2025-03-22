@@ -6,7 +6,7 @@
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunstrike-spec&row=1&margin-w=40)](https://github.com/sunstrike-spec/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunstrike-spec&theme=darkhub&row=1&margin-w=40)](https://github.com/sunstrike-spec/github-profile-trophy)
 
 <hr/>
 
