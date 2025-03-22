@@ -1,22 +1,16 @@
-## Welcome to my github, nice to meet you!
+<p align="justify">
+ <H2>
+  Welcome to my GitHub Page. I am Codecook, a software engineer. I love learning new things about programming and sharing my knowledge with others. I have been programming for more than 7 years. 
+ </H2>
 
-<!-- ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Believe%20you%20can%20and%20you’re%20halfway%20there!&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient) -->
-
-<!-- <p align= "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=600&height=100&lines=%22Great+men+are+not +born+great,+they+grow+great!%22+;+-Believe" />
-</p> -->
-
- <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aarDPwb1Umz554KwjmcQSg.png" />
-
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunstrike-spec&row=1&margin-w=40)](https://github.com/sunstrike-spec/github-profile-trophy)
-
-<hr/>
+</p>
+<div align="center"> 
+ <img src="https://images.pexels.com/photos/5980754/pexels-photo-5980754.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000"/>
+</div>
 
 ## My favorite tools and technologies ⚙️
 
-> Skills and technologies I've occupied!
+> Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
@@ -139,17 +133,13 @@
  </tr>
 </table>
 
-##
-
-  <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
-
 ## Github stats 📊
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sunstrike-spec's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sunstrike-spec&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sunstrike-spec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunstrike-spec&langs_count=8&layout=compact&theme=radical" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codecook-start's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=codecook-start&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codecook-start's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecook-start&langs_count=8&layout=compact&theme=radical" height="192px"/></a>
   <br/>
 </details>
 
@@ -157,36 +147,19 @@
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunstrike-spec&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codecook-start&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
+
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=sunstrike-spec&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=codecook-start&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-## My position 📊
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Full Stack Developer
->
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> SEO Specialist
->
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> E-commerce Expert
+## GitHub Profile Trophy 🏆
 
-<hr />
+[![trophy](https://github-profile-trophy.vercel.app/?username=codecook-start&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <h3>Main Skills</h3>
-    <h4> ✅ Languages: </h4>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,cs,ruby,java" /><br/>
-    <h4> ✅ Frameworks/Libraries: </h4>
-    <img src="https://skillicons.dev/icons?i=rails,django,nodejs,react,angular,vue,next,nuxt,spring,wordpress" /><br/>
-    <h4> ✅ Databases: </h4>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" /><br/>
-    <h4> ✅ Others: </h4>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,ansible" /><br/>
-</p>
 
-<hr />
