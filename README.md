@@ -77,7 +77,7 @@
 
 >
 
-## Achievements
+## Achievements List
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
