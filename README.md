@@ -77,6 +77,20 @@
 
 >
 
+## Achievements
+
+<div style="display:flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" alt="Galaxy Brain" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" width="60">
+    <img src="https://github.com/sunstrike-spec/Git-achievements/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="60">
+</div>
+
 ## My favorite tools and technologies ⚙️
 
 > Skills and technologies I've occupied!
