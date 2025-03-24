@@ -297,7 +297,7 @@
 <li>The future belongs to those who believe in the beauty of their dreams.</li>
 <hr />
 
-<div align="center">
+<div align="center" style="border-radius:30px;">
 
 #
 
