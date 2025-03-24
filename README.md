@@ -262,7 +262,7 @@
 
 ##
 
-<img src="https://27n.gg/assets/images/gifs/game-gif-9.gif" alt="ai">
+![Project Demo](https://27n.gg/assets/images/gifs/game-gif-9.gif)
 
 ##
 
