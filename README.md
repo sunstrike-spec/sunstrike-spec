@@ -222,6 +222,14 @@
 
 ##
 
+<div align="center">
+
+![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/ancient.gif)
+
+</div>
+
+##
+
 ## Github stats 📊
 
 <details>
@@ -259,16 +267,6 @@
 > ### <img src="https://cdn1.iconfinder.com/data/icons/activities-11/66/68-512.png" alt="Coin" width="25" height="25" /> E-commerce Expert
 
 <hr />
-
-##
-
-<div align="center">
-
-![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/ancient.gif)
-
-</div>
-
-##
 
 <p align="center">
   <h3>Main Skills 🚀</h3>
