@@ -268,6 +268,14 @@
 
 <hr />
 
+#
+
+<div align="center">
+
+![Skill](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/skill.webp)
+
+</div>
+
 <p align="center">
   <h3>Main Skills 🚀</h3>
     <h4> ✅ Languages: </h4>
@@ -288,3 +296,13 @@
 <li>The only limit to our realization of tomorrow is our doubts of today.</li>
 <li>The future belongs to those who believe in the beauty of their dreams.</li>
 <hr />
+
+<div align="center">
+
+#
+
+![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/universe.webp)
+
+</div>
+
+#
