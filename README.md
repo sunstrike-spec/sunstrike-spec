@@ -282,7 +282,7 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,ansible" /><br/>
 </p>
 
-## Infinitive
+## Infinitive ⌛
 
 <li>Believe you can and you’re halfway there.</li>
 <li>Success is not final, failure is not fatal: It is the courage to continue that counts.</li>
