@@ -282,4 +282,11 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,ansible" /><br/>
 </p>
 
+## Infinitive
+
+<li>Believe you can and you’re halfway there.</li>
+<li>Success is not final, failure is not fatal: It is the courage to continue that counts.</li>
+<li>It always seems impossible until it’s done.</li>
+<li>The only limit to our realization of tomorrow is our doubts of today.</li>
+<li>The future belongs to those who believe in the beauty of their dreams.</li>
 <hr />
