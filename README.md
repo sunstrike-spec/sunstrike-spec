@@ -1,4 +1,4 @@
-## To plan goal with thinking to live whole life, to live with thinking today is the last day of my life
+## ⌛ To plan goal with thinking to live whole life, to live with thinking today is the last day of my life! ⌛
 
 ## Senior Full Stack Developer & UX/UI Designer
 
