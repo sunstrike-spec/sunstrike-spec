@@ -77,7 +77,7 @@
 
 ##
 
-<img src="https://servreality.com/_next/static/media/new-why-us-img-2.ec4a3be1.webp?q=100" alt="design">
+<img src="https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/design.webp" alt="design">
 
 >
 
@@ -264,7 +264,7 @@
 
 <div align="center">
 
-![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/game-gif-9.gif)
+![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/ancient.gif)
 
 </div>
 
