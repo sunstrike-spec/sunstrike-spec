@@ -75,6 +75,10 @@
 
 </div>
 
+##
+
+<img src="https://servreality.com/_next/static/media/new-why-us-img-2.ec4a3be1.webp?q=100" alt="design">
+
 >
 
 ## Achievements List [![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)[![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)[![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)
@@ -255,6 +259,10 @@
 > ### <img src="https://cdn1.iconfinder.com/data/icons/activities-11/66/68-512.png" alt="Coin" width="25" height="25" /> E-commerce Expert
 
 <hr />
+
+##
+
+<img src="https://27n.gg/assets/images/gifs/game-gif-9.gif" alt="ai">
 
 <p align="center">
   <h3>Main Skills 🚀</h3>
