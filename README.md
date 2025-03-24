@@ -2,7 +2,7 @@
 
 ## Senior Full Stack Developer & UX/UI Designer
 
- <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aarDPwb1Umz554KwjmcQSg.png" />
+ <img src="https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/ai.webp" />
 
 ## GitHub Profile Trophy 🏆🏆🏆
 
