@@ -262,7 +262,7 @@
 
 ##
 
-![Project Demo]()
+![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/game-gif-9.gif)
 
 ##
 
